@@ -1,0 +1,111 @@
+{
+    "dart.openDevTools": "flutter",
+    "dart.debugExternalPackageLibraries": false,
+    "dart.debugSdkLibraries": false,
+    "editor.formatOnSave": true,
+    "dart.warnWhenEditingFilesOutsideWorkspace": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "settingsSync.ignoredSettings": [],
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "dart.previewFlutterUiGuides": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "cSpell.enableFiletypes": [
+        "!asciidoc",
+        "!c",
+        "!cpp",
+        "!csharp",
+        "!css",
+        "!elixir",
+        "!erlang",
+        "!git-commit",
+        "!go",
+        "!graphql",
+        "!handlebars",
+        "!haskell",
+        "!html",
+        "!jade",
+        "!java",
+        "!javascript",
+        "!javascriptreact",
+        "!jsonc",
+        "!latex",
+        "!less",
+        "!markdown",
+        "!php",
+        "!plaintext",
+        "!pug",
+        "!python",
+        "!restructuredtext",
+        "!rust",
+        "!scala",
+        "!scminput",
+        "!scss",
+        "!swift",
+        "!typescript",
+        "!typescriptreact",
+        "!vue",
+        "!yaml",
+        "!yml"
+    ],
+    "[json]": {
+        "editor.quickSuggestions": {
+            "other": "inline",
+            "strings": "on"
+        },
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": false,
+        "scminput": false
+    },
+    "git.autofetch": true,
+    "dart.showInspectorNotificationsForWidgetErrors": false,
+    "explorer.copyRelativePathSeparator": "/",
+    "terminal.integrated.env.windows": {},
+    "console-ninja.featureSet": "Community",
+    "files.associations": {
+        "*.js": "javascript",
+        "*.json": "json"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "extensions.autoUpdate": false,
+    "php.validate.executablePath": "",
+    "git.suggestSmartCommit": false,
+    "gitlens.gitCommands.skipConfirmations": [
+        "fetch:command",
+        "switch:command"
+    ],
+    "editor.acceptSuggestionOnEnter": "smart",
+    "emmet.syntaxProfiles": {},
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreacr"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.preferences": {},
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    "git.openRepositoryInParentFolders": "always",
+    "window.zoomLevel": -1,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    "dart.analyzerPath": null,
+    "workbench.colorTheme": "Default Dark+",
+    "gitlens.ai.experimental.provider": "openai",
+    "gitlens.ai.experimental.openai.model": "gpt-3.5-turbo-16k",
+    "codeium.enableConfig": {
+        "*": true
+    },
+    "workbench.editorAssociations": {
+        "*.jar": "default"
+    },
+    "editor.guides.bracketPairs": "active",
+    "editor.bracketPairColorization.enabled": true,
+}
